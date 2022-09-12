@@ -1,0 +1,21 @@
+.sidebar, .col-right{
+	padding-top: 30px;
+}
+.sidebar{
+	background: #56b7ac;
+}
+.avatar{
+	display: block;
+	clear: both;
+}
+.line-avatar{
+	text-align: center;
+}
+.line-avatar,.line-heading{
+	margin-bottom: 50px;
+}
+
+.line-avatar img{
+	max-width: 125px;
+	margin: 0 auto;
+}
