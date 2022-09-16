@@ -40,3 +40,7 @@ function get_layout($default = 0){
 		require_once('template/1-column.php');
 	}
 }
+function get_letter(){
+}
+?>
+
