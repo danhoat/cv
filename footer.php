@@ -9,7 +9,7 @@
 	}
 	if($content_font){
 		$font_css  = get_font_define($content_font);
-		$css.=" .col-content{ font-family:{$font_css}; font-size:15px; } .col-content li span{font-size:15px;} ";
+		$css.=" .col-content{ font-family:{$font_css}; font-size:16px; } .col-content li span{font-size:16px;} ";
 	}
  ?>
 <style type="text/css"><?php echo $css;?></style>
