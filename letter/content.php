@@ -11,12 +11,12 @@
 						<i class="fa-solid fa-phone"></i> 0916681139
 					</li>
 					<li>
-						<i class="fa-solid fa-location-dot"></i> 523A Do Xuan Hop, Phuoc Long B, Thu Duc, HCM City
+						<i class="fa-solid fa-location-dot"></i> Thu Duc, HCM City
 					</li>
 				</ul>
 			</div>
 			<div class="content">
-				<p> Dear Recruitt</p>
+				<p> Dear Hiring Manager</p>
 
 				<br />
 				<p>
