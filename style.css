@@ -191,3 +191,27 @@ ul,p,span,div,label,input{
 .phone-email span .icon.email-icon{
 	width: 20px;
 }
+.headingLetter{
+	background-color: #56b7ac;
+	padding: 30px 30px;
+}
+.letter{
+	padding: 0px;
+}
+.letter .content{
+	padding: 30px;
+}
+.letterInfo{
+	padding: 0;
+	margin: 0;
+	}
+.letterInfo li{
+	list-style: none;
+	display: inline-flex;
+	margin-right: 10px;
+}
+.letterInfo i{
+	position: relative;
+	top: 5px;
+	margin-right: 5px;
+}

@@ -7,5 +7,6 @@ require_once('define.php');
 require_once('functions.php');
 ?>
 <?php get_header(); ?>
+<?php get_letter();?>
 <?php get_layout(1);?>
 <?php get_footer();?>

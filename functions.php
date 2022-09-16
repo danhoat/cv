@@ -41,6 +41,7 @@ function get_layout($default = 0){
 	}
 }
 function get_letter(){
+	require_once('letter/content.php');
 }
 ?>
 
