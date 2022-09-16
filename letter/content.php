@@ -16,7 +16,7 @@
 				</ul>
 			</div>
 			<div class="content">
-				<p> Dear Hiring Manager</p>
+				<p> Dear Hiring Manager,</p>
 
 				<br />
 				<p>
