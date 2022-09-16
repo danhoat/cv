@@ -20,8 +20,8 @@
 
 				<br />
 				<p>
-				After more than 9 years of working on WordPress CMS, currently, I would like to grab a new opportunity and challenge myself with other field such as Laravel framework .
-				I am applying for the position of Senior PHP Web Developer with Amazon Web Services.
+				After more than 9 years of working on WordPress CMS, currently, I would like to grab a new opportunity and challenge myself with other field such as Laravel framework so
+				I am applying for the position of Senior PHP Web Developer.
 			</p>
 			<br />
 			<p>
