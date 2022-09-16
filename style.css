@@ -200,6 +200,7 @@ ul,p,span,div,label,input{
 }
 .letter .content{
 	padding: 30px;
+	min-height: 500px;
 }
 .letterInfo{
 	padding: 0;

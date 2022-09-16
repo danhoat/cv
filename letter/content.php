@@ -33,7 +33,7 @@
 				Hope to have the opportunity to prove myself as well as bring value to your company.
 			</p><p>&nbsp;</p>
 				<p> Thank you for your consideration.</p>
-				Sincerely,
+				Sincerely,<br />
 				Dan Nguyen
 			</div>
 		</div>
