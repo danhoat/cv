@@ -6,7 +6,7 @@
 			</div>
 			<div class="col-9 col-right">
 				<h1 class="fullname"> Dan Nguyen Gia</h1>
-				<h3 class="job-title"> Senior PHP/WordPress Developer </h3>
+				<h3 class="job-title"> Senior PHP Developer </h3>
 				<p class="phone-email">
 					<span><img class="icon phone-icon" src="<?php echo ICON_URL;?>/phone1.png">  +84 916681139 </span>
 					<span> <img class="icon email-icon" src="<?php echo ICON_URL;?>/email.png"> danhoat@gmail.com </span>
