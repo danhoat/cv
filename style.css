@@ -54,19 +54,19 @@ body, html, .container{
 }
 .heading .avatar{
 	border-radius: 50%;
-	width: 139px;
+	width: 119px;
 }
 .col-avatar{
 	text-align: center;
 }
 h1.fullname{
-	font-size: 2.3rem;
+	font-size: 29px;
 }
 .job-title{
 	position: relative;
-	top: -8px;
+	top: -5px;
 	margin: 0 0 8px 0;
-	font-size: 1.5rem;
+	font-size: 19px
 }
 ul,p,span,div,label,input{
 	margin: 0;
@@ -193,7 +193,7 @@ ul,p,span,div,label,input{
 }
 .headingLetter{
 	background-color: #56b7ac;
-	padding: 30px 30px;
+	padding: 15px 30px;
 }
 .letter{
 	padding: 0px;
@@ -201,6 +201,12 @@ ul,p,span,div,label,input{
 .letter .content{
 	padding: 30px;
 	min-height: 1020px;
+}
+.letter h1{
+	font-size: 28px;
+	}
+.letter h2{
+	font-size: 19px;
 }
 .letter .content p{
 	line-height: 30px;

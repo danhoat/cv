@@ -29,16 +29,11 @@ function get_footer($tool = 0){
  		require_once('tool.php');
  	}
 }
-function get_layout($default = 0){
-	$layout = isset($_COOKIE['layout']) ? (int) $_COOKIE['layout']: 1;
+function get_pos_layout($name = ''){
 
-	if($layout == 1 || $default){
-		require_once('template/default.php');
-	}else if( $layout == 2 ){
-		require_once('template/2-columns.php');
-	} else {
-		require_once('template/1-column.php');
-	}
+	$path = 'template/'.$name.'.php';
+	require_once($path);
+
 }
 function get_letter(){
 	require_once('letter/content.php');

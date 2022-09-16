@@ -3,6 +3,7 @@
 		<div class="wrap">
 			<div class="headingLetter">
 				<h1> Dan Nguyen Gia</h1>
+				<h2> Fullstack Developer</h2>
 				<ul class="letterInfo">
 					<li>
 						<i class="fa-sharp fa-solid fa-envelope"></i>danhoat@gmail.com
@@ -22,7 +23,7 @@
 				<br />
 				<p>
 				After more than 9 years of working on WordPress CMS. Currently, I would like to grab a new opportunity and challenge myself with other field such as Laravel framework so
-				I am applying for the position of Senior PHP Web Developer.
+				I am applying for the position of Fullstack Developer at Groove Technology.
 			</p>
 			<br />
 			<p>
