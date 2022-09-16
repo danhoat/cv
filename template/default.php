@@ -109,8 +109,8 @@
 					<li><span>Strong knowledge of RESTful Web Services and JSON.</span></li>
 					<li><span>Excellent PHP & MySQL, JavaScript, Bootstraps and Sass.</span></li>
 					<li><span>Good to debug and solve PHP/WordPress problems. </span></li>
-					<li><span>Experience to implement payment gateway/escrow API(PayPal/Stripe...).</span></li>
-					<li><span>Experience implementing eCommerce Systems with In-depth understanding of ecommerce systems.</span></li>
+					<li><span>Experience  implementing payment gateway/escrow API(PayPal/Stripe...).</span></li>
+					<li><span>In-depth understanding of eCommerce systems, application implementation.</span></li>
 				</ul>
 			</div>
 			<div class="line skill-line">
