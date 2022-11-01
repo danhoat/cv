@@ -21,14 +21,13 @@
 				<p> Dear Hiring Manager,</p>
 
 				<br />
-				<p>
-				After more than 9 years of working on WordPress CMS. Currently, I would like to grab a new opportunity and challenge myself with other field such as Laravel framework so
-				I am applying for the position of Fullstack Developer at Groove Technology.
-			</p>
-			<br />
+
 			<p>
 
-				Although I don’t have a rich experience with the Laravel framework, I am full of spirit and take a progressive attitude. I'm not afraid to change and ready to learn every day. I believe I will quickly get familiar with Laravel and become proficient in using this framework.
+				Với hơn 9 năm kinh nghiệm ở vị trí PHP Develope web developer. Tôi đã  xây dưng rất nhiều website, giúp đỡ khách hàng vận hành, bảo trì các nên tôi có thể xử lý các vấn đề một cách nhanh chóng và chinh xác.
+
+				 My experience and abilities precisely match your requirement so I am confident I would be a perfect fit for  posstion Fullstack Developer tại côgn ty Groove Technology.
+
 			</p>
 			<br />
 			<p>
