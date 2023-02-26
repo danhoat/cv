@@ -127,7 +127,7 @@
 			</div>
 
 			<div class="line skill-line">
-				<h3 class="label">ENVIROMENT </h3>
+				<h3 class="label">ENVIROMENT 11x</h3>
 				<div class="des">
 					Git, Github, cPanel/FTP Hosting, Firebase, Bootstrap Framework, WordPress, PHP MySQL, PSD, HTML/CSS/JS, Woocommerce ..., XAMPP/MAMPP
 				</div>
