@@ -110,7 +110,7 @@
 				<div class="item">
 					<label class="sub-label"> PHP Developer  at JVIT - Ho Chi Minh City</label>
 					<p> Apr 2023 - Jun 2024</p>
-					<p>Customize WordPress Project,Laravel and Simphony for Japan</p>
+					<p>Customize WordPress Project,Laravel and Simphony for Japanese</p>
 					<p>Build local system by using Docker</p>
 					
 				</div>
