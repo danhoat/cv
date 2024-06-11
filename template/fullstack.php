@@ -108,7 +108,7 @@
 			<div class="line">
 				<h3 class="label"> Work Experience </h3>
 				<div class="item">
-					<label class="sub-label"> PHP Developer  at EngineThemes - Ho Chi Minh City</label>
+					<label class="sub-label"> PHP Developer  at JVIT - Ho Chi Minh City</label>
 					<p>Customize WordPress Project,Laravel and Simphony for Japan</p>
 					<p>Build local system by using Docker</p>
 					
