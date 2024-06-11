@@ -108,6 +108,19 @@
 			<div class="line">
 				<h3 class="label"> Work Experience </h3>
 				<div class="item">
+					<label class="sub-label"> PHP Developer  at EngineThemes - Ho Chi Minh City</label>
+					<p>Customize WordPress Project,Laravel and Simphony for Japan</p>
+					<p>Build local system by using Docker</p>
+					
+				</div>
+				<div class="item">
+					<label class="sub-label"> Fullstack Developer</label>
+					<p> Jun 2022 - May 2023</p>
+					<p>Work as a freelancer. Find project via web freelancer and devevery reult to customer.</p>
+
+				</div>
+
+				<div class="item">
 					<label class="sub-label">Senior WordPress Developer at EngineThemes - Ho Chi Minh City</label>
 					<p> Jun 2013 - Aug 2022</p>
 					<p> EngineThemes is a WordPress application theme creator.</p>
@@ -172,7 +185,7 @@
 			<div class="line skill-line">
 				<h3 class="label">ENVIROMENT </h3>
 				<div class="des">
-					Git, Github, cPanel/FTP Hosting, Firebase, Bootstrap Framework, WordPress, PHP MySQL, PSD, HTML/CSS/JS, SCSS/SASS, Woocommerce,XAMPP/MAMPP
+					Git, Github,Docker,Vuejs,cPanel/FTP Hosting, Firebase, Bootstrap Framework, WordPress, PHP MySQL, PSD, HTML/CSS/JS, SCSS/SASS, Woocommerce,XAMPP/MAMPP
 				</div>
 			</div>
 	</div>
