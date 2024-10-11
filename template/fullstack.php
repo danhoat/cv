@@ -119,7 +119,7 @@
 				<div class="item">
 					<label class="sub-label"> Fullstack Developer</label>
 					<p> Jun 2022 - May 2023</p>
-					<p>Work as a freelancer and works with global customer. Almost job relates to customize WordPress site such as customize layout/function/workflow of the theme, implement payment gateway.  </p>
+					<p>Work as a freelancer. Almost job relates to customize WordPress site such as customize layout/function/workflow of the theme, implement payment gateway.  </p>
 
 				</div>
 
