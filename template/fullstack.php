@@ -112,8 +112,8 @@
 					<label class="sub-label"> PHP Developer  at JVIT - Ho Chi Minh City</label>
 					<p> Apr 2023 - Jun 2024</p>
 					<p>JV-IT is a company specializing in outsourcing for the Japanese market. </p>
-					<p>Customize WordPress Project,Laravel and Simphony for Japan market</p>
-					<p>Build local system by using Docker or work directly on the AWS system</p>
+					<p>Customize WordPress Project,Laravel and Simphony for Japanese market</p>
+					<p>Build on the local system by using Docker or work directly on the AWS system.</p>
 					
 				</div>
 				<div class="item">
