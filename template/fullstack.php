@@ -119,7 +119,7 @@
 				<div class="item">
 					<label class="sub-label"> Fullstack Developer</label>
 					<p> Jun 2022 - May 2023</p>
-					<p>Work as a freelancer. Almost job relates to customize WordPress site such as customize layout/function/workflow of the theme, implement payment gateway.  </p>
+					<p>Work as a freelancer. Almost job relates to customize WordPress site such as customizing layout/function/workflow of the theme, implement payment gateway.  </p>
 
 				</div>
 
@@ -176,10 +176,10 @@
 				<h3 class="label">STRENGTHS </h3>
 				<ul>
 					<li>
-						<span><strong class="strong">Online Comunication</strong> Effective online communication, present compelling messages in a one-way setting in order to be successful.</span></li>
+						<span><strong class="strong">Online Communication </strong> Effective online communication, present compelling messages in a one-way setting in order to be successful.</span></li>
 
 					<li>
-						<span><strong class="strong">Time Managment</strong>
+						<span><strong class="strong">Time Management </strong>
 						Prioritize my tasks and efficiently organize everything to achieve my goals</span>
 					</li>
 				</ul>
@@ -188,7 +188,7 @@
 			<div class="line skill-line">
 				<h3 class="label">ENVIRONMENT </h3>
 				<div class="des">
-					WordPress, PHP MySQL, Git, Github, Docker,Vuejs,cPanel/FTP Hosting, Firebase, Bootstrap Framework,  PSD, HTML/CSS/JS, SCSS/SASS, Woocommerce,XAMPP/MAMPP
+					WordPress, PHP MySQL, Git, Github, Docker, Vuejs, cPanel/FTP Hosting, Firebase, Bootstrap Framework, PSD/FIGMA, HTML/CSS/JS, SCSS/SASS, Woocommerce, XAMPP/MAMPP
 				</div>
 			</div>
 	</div>
