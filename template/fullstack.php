@@ -119,7 +119,7 @@
 				<div class="item">
 					<label class="sub-label"> Fullstack Developer</label>
 					<p> Jun 2022 - May 2023</p>
-					<p>Work as a freelancer. Almost job relates to customize WordPress site such as customizing layout/function/workflow of the theme, implement payment gateway.  </p>
+					<p>Work as a freelancer. Almost job relates to customize WordPress site such as customizing the layout/function/workflow of the theme, implement payment gateway.  </p>
 
 				</div>
 
@@ -180,7 +180,7 @@
 
 					<li>
 						<span><strong class="strong">Time Management </strong>
-						Prioritize my tasks and efficiently organize everything to achieve my goals</span>
+						Prioritize my tasks and efficiently organize everything to achieve my goals.</span>
 					</li>
 				</ul>
 			</div>
@@ -188,7 +188,7 @@
 			<div class="line skill-line">
 				<h3 class="label">ENVIRONMENT </h3>
 				<div class="des">
-					WordPress, PHP MySQL, Git, Github, Docker, Vuejs, cPanel/FTP Hosting, Firebase, Bootstrap Framework, PSD/FIGMA, HTML/CSS/JS, SCSS/SASS, Woocommerce, XAMPP/MAMPP
+					WordPress, PHP MySQL, Git, Github, Docker, Vuejs, cPanel/FTP Hosting, Firebase, Bootstrap Framework, PSD/FIGMA, HTML/CSS/JS, SCSS/SASS, Woocommerce, XAMPP/MAMPP.
 				</div>
 			</div>
 	</div>
