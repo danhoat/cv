@@ -135,7 +135,7 @@
 						<li><span>Fix bugs and maintenance themes/plugins.</span></li>
 						<li><span>Conduct internal training for developers within the team.</span></li>
 					</ul>
-					<p>Tools and technologies: WordPress, XML, HTML/CSS, PHP & MYSQL, jQuery, Ajax,Sublime,Photoshop, Bootstraps, Sass.</p>
+					<p>Tools and technologies: WordPress, XML, HTML/CSS, PHP & MYSQL, jQuery, Ajax, Sublime/VS,Photoshop, Bootstraps, Sass.</p>
 					<p><span class="key-achievement "> Key achievement:</span> FreelanceEngine theme, MicrojobEngine theme.</p>
 				</div>
 				<div class="item">
