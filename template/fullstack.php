@@ -143,7 +143,7 @@
 					<p> Jun 2012 - May 2013</p>
 					<p> Goscom is a software outsourcing company.</p>
 					<ul>
-						<li><span>Experience with Xampp (Linux, Apache, MySQL, PHP, HTML/CSS).</span></li>
+						<li><span>Experience with Xampp (Linux, Nginx/Apache, MySQL, PHP, HTML/CSS).</span></li>
 						<li><span>Convert PSD file to HTML/CSS template.</li>
 						<li><span>Customize  PHP WordPress/Woocommerce and support customers.</span></li>
 					</ul>
@@ -188,7 +188,7 @@
 			<div class="line skill-line">
 				<h3 class="label">ENVIRONMENT </h3>
 				<div class="des">
-					WordPress, PHP MySQL, Git, Github, Docker, Vuejs, cPanel/FTP Hosting, Firebase, Bootstrap Framework, PSD/FIGMA, HTML/CSS/JS, SCSS/SASS, Woocommerce, XAMPP/MAMPP.
+					WordPress, PHP MySQL, Git, Github, Docker, Vuejs, cPanel/FTP Hosting, Firebase, Bootstrap Framework, PSD/FIGMA, HTML/CSS/JS, SCSS/SASS, Woocommerce, XAMPP/MAMPP, Nginx/Apache.
 				</div>
 			</div>
 	</div>
