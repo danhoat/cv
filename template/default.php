@@ -22,7 +22,7 @@
 
 			<ul class="skills">
 				<li>
-					WordPress
+					WordPress 3
 					<span class="rate"><span class="rate-9"></span></span>
 				</li>
 				<li> PHP & MySQL<span class="rate"><span class=" rate-8"></span></span></li>

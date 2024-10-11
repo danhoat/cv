@@ -8,7 +8,7 @@
 			<label class="label"> Skills</label>
 			<ul class="skills">
 				<li>
-					WordPress
+					WordPress 2
 					<span class="rate"><span class="rate-9"></span></span>
 				</li>
 				<li> PHP & MySQL<span class="rate"><span class=" rate-8"></span></span></li>

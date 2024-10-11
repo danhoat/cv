@@ -63,7 +63,7 @@
 		<div class="col-3 sidebar ">
 			<label class="label"> Skills</label>
 
-			<ul class="skills">
+			<ul class="skills hide">
 				<li>
 					WordPress
 					<span class="rate"><span class="rate-9"></span></span>
@@ -103,7 +103,8 @@
 		<div class="col-9 col-right col-content">
 			<div class="line">
 				<h3 class="label"> Profile </h3>
-				<p>Around 9+ years of experience as a PHP Web Application Developer, specializing in by developing WordPress themes,plugins and payment API. Extensive experience in payment API work and how to implement it. Experience in technical support ofand can handle almost WordPress, PHP and Hosting  popular  issues.</p>
+				<p>Around 9+ years of experience as a PHP Web Application Developer, specializing in by developing WordPress themes,plugins and payment API. Extensive experience in payment API work and how to implement it. Experience in technical support ofand can handle almost WordPress, PHP and Hosting  popular  issues. </p>
+				<p> Got an insignt on the web system and technology, how to build and how it running </p>
 			</div>
 			<div class="line">
 				<h3 class="label"> Work Experience </h3>
@@ -187,7 +188,7 @@
 			<div class="line skill-line">
 				<h3 class="label">ENVIROMENT </h3>
 				<div class="des">
-					Git, Github,Docker,Vuejs,cPanel/FTP Hosting, Firebase, Bootstrap Framework, WordPress, PHP MySQL, PSD, HTML/CSS/JS, SCSS/SASS, Woocommerce,XAMPP/MAMPP
+					WordPress, PHP MySQL, Git, Github, Docker,Vuejs,cPanel/FTP Hosting, Firebase, Bootstrap Framework,  PSD, HTML/CSS/JS, SCSS/SASS, Woocommerce,XAMPP/MAMPP
 				</div>
 			</div>
 	</div>

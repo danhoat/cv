@@ -17,8 +17,8 @@
 		<div class="col-3 sidebar ">
 			<label class="label"> Skills</label>
 			<ul class="skills">
-				<li>
-					WordPress
+				<li> 
+					WordPress1
 					<span class="rate"><span class="rate-9"></span></span>
 				</li>
 				<li> PHP & MySQL<span class="rate"><span class=" rate-8"></span></span></li>
