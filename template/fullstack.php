@@ -112,7 +112,7 @@
 					<p> Apr 2023 - Jun 2024</p>
 					<p>JV-IT is a company specializing in outsourcing for the Japanese market. </p>
 					<p>Customize WordPress Project,Laravel and Simphony for Japan market</p>
-					<p>Build local system by using Docker or work directly in AWS system</p>
+					<p>Build local system by using Docker or work directly on the AWS system</p>
 					
 				</div>
 				<div class="item">
