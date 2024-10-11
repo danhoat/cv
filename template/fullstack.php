@@ -61,7 +61,7 @@
 	<div class ="line-split"><span></span><span></span><span></span></div>
 	<div class="row">
 		<div class="col-3 sidebar ">
-			<label class="label"> Skills</label>
+			<label class="label hide"> Skills</label>
 
 			<ul class="skills hide">
 				<li>
