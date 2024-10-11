@@ -188,7 +188,7 @@
 			<div class="line skill-line">
 				<h3 class="label">ENVIRONMENT </h3>
 				<div class="des">
-					WordPress, PHP MySQL, Git, Github, Docker, Vuejs, cPanel/FTP Hosting, Firebase, Bootstrap Framework, PSD/FIGMA, HTML/CSS/JS, SCSS/SASS, Woocommerce, XAMPP/MAMPP, Nginx/Apache.
+					WordPress, PHP MySQL/MariaDB , Git/Github, Docker, Vuejs, cPanel/FTP Hosting, Firebase, Bootstrap Framework, PSD/FIGMA, HTML/CSS/JS, SCSS/SASS, Woocommerce, XAMPP/MAMPP, Nginx/Apache.
 				</div>
 			</div>
 	</div>
