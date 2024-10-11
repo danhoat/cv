@@ -103,8 +103,8 @@
 		<div class="col-9 col-right col-content">
 			<div class="line">
 				<h3 class="label"> Profile </h3>
-				<p>Around 9+ years of experience as a PHP Web Application Developer, specializing in by developing WordPress themes,plugins and payment API. Extensive experience in payment API work and how to implement it. Experience in technical support ofand can handle almost WordPress, PHP and Hosting  popular  issues. </p>
-				<p> Got an insignt on the web system and technology, how to build and how it running </p>
+				<p>Around 9+ years of experience as a PHP Web Application Developer, specializing in by developing WordPress themes, plugins and payment API. Extensive experience in payment API work and how to implement it. Experience in technical support ofand can handle almost WordPress, PHP and Hosting  popular  issues. </p>
+				<p>  I have in-depth knowledge of website systems/technology, how to build and how it run </p>
 			</div>
 			<div class="line">
 				<h3 class="label"> Work Experience </h3>
@@ -132,7 +132,7 @@
 						<li><span>Implement payment gateway for WordPress themes and plugins.</span></li>
 						<li><span>Technical support - work directly with customers via email to help them solve problems.</span></li>
 						<li><span>Offer Customization services for client</span></li>
-						<li><span>Fix bug and Maintenance themes/plugins.</span></li>
+						<li><span>Fix bugs and maintenance themes/plugins.</span></li>
 						<li><span>Conduct internal training for developers within the team.</span></li>
 					</ul>
 					<p>Tools and technologies: WordPress, XML, HTML/CSS, PHP & MYSQL, jQuery, Ajax,Sublime,Photoshop, Bootstraps, Sass.</p>
@@ -186,7 +186,7 @@
 			</div>
 
 			<div class="line skill-line">
-				<h3 class="label">ENVIROMENT </h3>
+				<h3 class="label">ENVIRONMENT </h3>
 				<div class="des">
 					WordPress, PHP MySQL, Git, Github, Docker,Vuejs,cPanel/FTP Hosting, Firebase, Bootstrap Framework,  PSD, HTML/CSS/JS, SCSS/SASS, Woocommerce,XAMPP/MAMPP
 				</div>
