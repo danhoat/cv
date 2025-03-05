@@ -93,7 +93,7 @@
 				<div class="item">
 					<label class="sub-label">Freelance Full Stack Developer</label>
 					<p> Jun 2024 - Present</p>
-					<p>I'm working as a full stack web developer. Custom function for WordPress website and Laravel(VueJs) framework.</p>
+					<p>I'm working as a full stack web developer. Custom function for WordPress website and Laravel(Vuejs) framework.</p>
 
 				</div>
 
