@@ -108,6 +108,14 @@
 			</div>
 			<div class="line">
 				<h3 class="label"> Work Experience </h3>
+
+				<div class="item">
+					<label class="sub-label">Freelance Full Stack Developer</label>
+					<p> Jun 2024 - Present</p>
+					<p>I'm working as a full stack web developer. Customize function for WordPress website and Laravel(VueJs) Framework</p>
+
+				</div>
+
 				<div class="item">
 					<label class="sub-label"> PHP Developer  at JVIT - Ho Chi Minh City</label>
 					<p> Apr 2023 - Jun 2024</p>
@@ -155,7 +163,7 @@
 				<div class="item">
 					<label class="sub-label"> HCMUS - Bachelor's degree - Ho Chi Minh City</label>
 					<p> Sep 2006 - Jun 2011</p>
-					<p>Learn programming languages like C/C++/C#/JAVA/ASP.NET and OPP, MVC, algorithms ... Develop simple applications.</p>
+					<p>Learn programming languages like C/C++/C#/JAVA/ASP.NET and OPP, MVC, Algorithms ... Develop simple applications.</p>
 				</div>
 
 			</div>
@@ -188,7 +196,7 @@
 			<div class="line skill-line">
 				<h3 class="label">ENVIRONMENT </h3>
 				<div class="des">
-					WordPress, PHP MySQL/MariaDB , Git/Github, Docker, Vuejs, cPanel/FTP Hosting, Firebase, Bootstrap Framework, PSD/FIGMA, HTML/CSS/JS, SCSS/SASS, Woocommerce, XAMPP/MAMPP, Nginx/Apache.
+					WordPress, Laravel, PHP MySQL/MariaDB , Git/Github, Docker, Vuejs, cPanel/FTP Hosting, Firebase, Bootstrap Framework, PSD/FIGMA, HTML/CSS/JS, SCSS/SASS, Woocommerce, XAMPP/MAMPP, Nginx/Apache.
 				</div>
 			</div>
 	</div>
