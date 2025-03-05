@@ -26,7 +26,7 @@
     flex: 0 0 auto;
 }
 .col-right{
-	padding-left: 50px;
+	padding-left: 0px;
 	text-align: left;
 }
 body, html, .container{
@@ -41,6 +41,10 @@ body, html, .container{
 	margin-bottom: 30px;
 	margin-right: auto;
     margin-left: auto;
+}
+
+.text-justify{
+	text-align: justify;
 }
 .heading {
 	margin-bottom: 40px;

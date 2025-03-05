@@ -101,7 +101,7 @@
 			</ul>
 		</div>
 		<div class="col-9 col-right col-content">
-			<div class="line">
+			<div class="line text-justify">
 				<h3 class="label"> Profile </h3>
 				<p>Around 9+ years of experience as a PHP Web Application Developer, specializing in by developing WordPress themes, plugins and payment API. Extensive experience in payment API work and how to implement it. Experience in technical support ofand can handle almost WordPress, PHP and Hosting  popular  issues. </p>
 				<p>I have in-depth knowledge of website systems/technology, how to build and how it works.</p>
