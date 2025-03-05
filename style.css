@@ -20,6 +20,14 @@
 }
 .line-top{
 	margin-bottom: 10px;
+	padding: 0 15px;
+
+}
+.bd-bottom{
+	border-bottom: 1px dashed #b9b9b9;
+	display: block;
+	height: 1px;
+	margin:12px 0;
 }
 .line-top hr{
 	margin-top: 10px;
@@ -29,6 +37,7 @@
 .col-3 {
     flex: 0 0 auto;
     width: 28%;
+	padding-left: 0;
 }
 .col-9 {
     flex: 0 0 auto;
@@ -36,10 +45,11 @@
 .col-right{
 	padding-left: 0px;
 	text-align: left;
+	padding: 0
 }
 body, html, .container{
 	margin: 0 auto;
-	width: 999px;
+	width: 925px;
 }
 .container{
 	padding: 25px 25px 20px 25px;
@@ -53,6 +63,7 @@ body, html, .container{
 
 .text-justify{
 	text-align: justify;
+	line-height: 23px;
 }
 .heading {
 	margin-bottom: 40px;
@@ -88,7 +99,7 @@ ul,p,span,div,label,input{
 .skills li{
 	display: block;
 	list-style: none;
-	margin-bottom: 13px;
+	margin-bottom: 5px;
 }
 .rate, .rate span{
 	display: block;

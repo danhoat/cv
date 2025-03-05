@@ -69,12 +69,9 @@
 			<label class="label"> Social</label>
 			<ul class="skills">
 				<li>
-					Linkedin
 					<a href="https://linkedin.com/in/dannguyengia/" target="_blank">linkedin.com/dannguyengia</a>
 				</li>
-				<li>
-					Github<br />
-					<a href="https://github.com/danngyw/" target="_blank">github.com/danngyw</a>
+				<li><a href="https://github.com/danngyw/" target="_blank">github.com/danngyw</a>
 				</li>
 
 
@@ -87,7 +84,7 @@
 				<p>I have in-depth knowledge of website systems/technology, how to build and how it works.</p>
 			</div>
 		</div>
-		<hr />
+		<div class="bd-bottom"></div>
 	</div> <!--End line-top !-->
 	<div class="row col-content">
 			<div class="line">
