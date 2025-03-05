@@ -91,7 +91,7 @@
 				<h3 class="label"> Work Experience </h3>
 
 				<div class="item">
-					<label class="sub-label">Freelance Full Stack Developer</label>
+					<label class="sub-label">Freelance Full Stack Web Developer</label>
 					<p> Jun 2024 - Present</p>
 					<p>I'm working as a full stack web developer. Custom function for WordPress website and Laravel(Vuejs) framework.</p>
 
