@@ -78,7 +78,7 @@
 			<label class="label"> Languages</label>
 			<ul class="skills">
 				<li>
-				VietNam, English
+				Vietnamese, English
 					<!-- <span class="rate"><span class="rate-7"></span></span> -->
 				</li>
 				<!-- <li>
