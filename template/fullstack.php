@@ -66,7 +66,7 @@
 					 <span class="rate"><span class="rate-10"></span></span> 
 				</li> -->
 			</ul>
-			<label class="label"> Social</label>
+			<label class="label">Links</label>
 			<ul class="skills">
 				<li>
 					<a href="https://linkedin.com/in/dannguyengia/" target="_blank">linkedin.com/dannguyengia</a>
