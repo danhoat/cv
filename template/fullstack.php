@@ -157,7 +157,6 @@
 					</ul>
 				</div>
 			</div>
-			<p> <br /> </p>
 			<div class="line">
 				<h3 class="label"> Education </h3>
 				<div class="item">
@@ -167,7 +166,6 @@
 				</div>
 
 			</div>
-			<p> <br /> </p>
 			<div class="line skill-line">
 				<h3 class="label"> SKILLS </h3>
 				<ul>
