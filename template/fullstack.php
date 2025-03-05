@@ -16,27 +16,7 @@
 					</li>
 				</ul>
 			</div>
-			<div class="content">
-				<br />
-				<p> Dear Hiring Manager,</p>
-
-				<br />
-
-			<p>
-
-				Với hơn 9 năm kinh nghiệm ở vị trí PHP Develope web developer. Tôi đã  xây dưng rất nhiều website, giúp đỡ khách hàng vận hành, bảo trì các nên tôi có thể xử lý các vấn đề một cách nhanh chóng và chinh xác.
-
-				 My experience and abilities precisely match your requirement so I am confident I would be a perfect fit for  posstion Fullstack Developer tại côgn ty Groove Technology.
-
-			</p>
-			<br />
-			<p>
-				Hope to have the opportunity to prove myself as well as bring value to your company.
-			</p><p>&nbsp;</p>
-				<p> Thank you for your consideration.</p>
-				Sincerely,<br />
-				Dan Nguyen
-			</div>
+			
 		</div>
 	</div>
 </div>
@@ -59,7 +39,7 @@
 		</div>
 	</div>
 	<div class ="line-split"><span></span><span></span><span></span></div>
-	<div class="row">
+	<div class="row line-top">
 		<div class="col-3 sidebar ">
 			<label class="label hide"> Skills</label>
 
@@ -106,6 +86,10 @@
 				<p>Around 9+ years of experience as a PHP Web Application Developer, specializing in by developing WordPress themes, plugins and payment API. Extensive experience in payment API work and how to implement it. Experience in technical support ofand can handle almost WordPress, PHP and Hosting  popular  issues. </p>
 				<p>I have in-depth knowledge of website systems/technology, how to build and how it works.</p>
 			</div>
+		</div>
+		<hr />
+	</div> <!--End line-top !-->
+	<div class="row col-content">
 			<div class="line">
 				<h3 class="label"> Work Experience </h3>
 

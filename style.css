@@ -18,9 +18,17 @@
     margin-right: calc(var(--bs-gutter-x) * -.5);
     margin-left: calc(var(--bs-gutter-x) * -.5);
 }
+.line-top{
+	margin-bottom: 10px;
+}
+.line-top hr{
+	margin-top: 10px;
+	margin-left: 12px;
+	margin-right: 12px;
+}
 .col-3 {
     flex: 0 0 auto;
-    width: 25%;
+    width: 28%;
 }
 .col-9 {
     flex: 0 0 auto;
@@ -31,7 +39,7 @@
 }
 body, html, .container{
 	margin: 0 auto;
-	width: 888px;
+	width: 999px;
 }
 .container{
 	padding: 25px 25px 20px 25px;
@@ -50,7 +58,7 @@ body, html, .container{
 	margin-bottom: 40px;
 }
 .heading, .rate span{
-	background-color: #56b7ac;
+	background-color: #ededed;
 }
 .heading .wrap{
 	padding: 23px  5px;
@@ -109,7 +117,7 @@ ul,p,span,div,label,input{
 	font-weight: 500;
 }
 .sidebar ul{
-	margin-bottom: 35px;
+	margin-bottom: 5px;
 }
 .line{
 	margin-bottom: 15px;
