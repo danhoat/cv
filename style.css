@@ -247,3 +247,23 @@ ul,p,span,div,label,input{
 	top: 5px;
 	margin-right: 5px;
 }
+.cover-letter main{
+	font-size: 17px;
+}
+.cover-letter .top p{
+	font-size: 16px;
+}
+.cover-letter hr{
+	    width: 218px;
+    height: 1.1px;
+    padding: 0;
+    margin: 5px;
+    position: relative;
+    left: -4px;
+    background: #000000;
+    font-weight: bold;
+    color: #000;
+    opacity: 1;
+	margin-bottom: 13px;
+
+}
